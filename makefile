@@ -1,4 +1,4 @@
-cc = g++-10
+cc = g++
 prom = ./bin/main # 目标
 deps = $(shell find ./src/ -name "*.h") # 找到所有 .h 文件
 src = $(shell find ./src/ -name "*.cpp") # 找到所有 .cpp 文件

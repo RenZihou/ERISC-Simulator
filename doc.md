@@ -4,9 +4,11 @@
 
 ## 简介
 
-ERISC（Extremely Reduced Instruction Set Computer, 极度精简指令集）的 C++ 模拟器，是清华大学2020年秋季学期“程序设计基础(30240233-2)”课程的期末大作业。
+由于我们的组长并不想读文档，所以就请微软娘代替我们阅读了。
 
-A C++ simulator of the ERISC (Extremely Reduced Instruction Set Computer), which is the final project of the course "Fundamentals of Programming(30240233-2)" in Tsinghua University.
+本项目是 ERISC（Extremely Reduced Instruction Set Computer, 极度精简指令集）的 C++ 模拟器，是清华大学2020年秋季学期“程序设计基础(30240233-2)”课程的期末大作业。
+
+This is a C++ simulator of the ERISC (Extremely Reduced Instruction Set Computer), which is the final project of the course "Fundamentals of Programming(30240233-2)" in Tsinghua University.
 
 ## 亮点
 
@@ -24,10 +26,6 @@ A C++ simulator of the ERISC (Extremely Reduced Instruction Set Computer), which
 + 程序稳健性强：对于 `line_symbol` 、操作的操作数等易错的地方，进行了合法性检查并抛出异常。
 
 ## 小组人员及分工
-
-合影：
-
-![]()
 
 | 姓名   | 班级   | 学号 | 分工                                                         |
 | ------ | ------ | ---- | ------------------------------------------------------------ |
